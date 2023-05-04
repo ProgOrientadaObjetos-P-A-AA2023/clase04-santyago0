@@ -14,5 +14,7 @@ public class Ejecutor {
         fac.calcularValorFactura(); 
         
         System.out.printf("%s\n", fac);
+        // Es lo mismo que:
+        // System.out.printf("%s\n", fac.toString());
     }
 }

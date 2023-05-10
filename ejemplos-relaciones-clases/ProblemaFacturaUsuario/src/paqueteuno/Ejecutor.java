@@ -24,7 +24,7 @@ public class Ejecutor {
         
         factura.calcularValorFactura();
         
-        System.out.printf("%S\n",factura);
+        System.out.printf("%s\n",factura);
         
         /*
         System.out.printf("Factura de Teléfono\n" +
